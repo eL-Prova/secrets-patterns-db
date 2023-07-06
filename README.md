@@ -25,6 +25,12 @@ It's in Beta. There’s a lot of room for improvement on the project. I'm lookin
 Are you planning to enhance your secrets detection in your AppSec program? Please take some time to contribute to the project! :pray:
 
 ---
+# Using
+For Trufflehog v2
+$> ./convert-rules.py ./db/rules-stable.yml trufflehog
+
+For Gitleaks
+$> ./convert-rules.py ./db/rules-stable.yml gitleaks
 
 # 💻 Contribution
 
